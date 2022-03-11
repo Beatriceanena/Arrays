@@ -13,7 +13,7 @@ fun colors(e:String, f:String, g:String, h:String){
 //question 2
 fun capitalcities(cities:Array<String>){
     cities.forEach{t ->
-        println(t.capitalize())git initgit init
+        println(t.capitalize())
     }
 
 }
